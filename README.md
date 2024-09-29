@@ -1,4 +1,4 @@
 # demo
 This my first repository
 <br>
-Author-Sanket Chaugule
+Author-Sanket Chaugule (SANKET)
